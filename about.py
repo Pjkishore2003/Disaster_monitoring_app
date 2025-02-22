@@ -39,7 +39,7 @@ def main():
     )
 
     st.subheader("GitHub Repository")
-    st.write("[Link to GitHub](https://github.com/ARYANRVIMPADAPU/GeoNews)")
+    st.write("[Link to GitHub](https://github.com/Pjkishore2003/GeoNews)")
 
 
 
